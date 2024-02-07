@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Protest+Strike&display=swap')
 * {
   margin: 0;
   padding: 0;
@@ -257,3 +258,15 @@ section {
     transition: 0.3s ease;
   }
 }
+.aboutUs{
+    background-color: rgb(250, 253, 255);
+}
+.about,.contact,.sermon {
+  text-shadow: 5px 2px 3px red;
+  color: blue;
+  font-size: 50px;
+  text-align: center;
+  font-family: "Protest Strike", sans-serif;
+}
+
+
